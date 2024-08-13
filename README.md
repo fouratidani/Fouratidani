@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hi, I’m @Fouratidani</h1>
 <h3 align="center">Frontend Developer</h3>
+
 - 👀 I’m deeply interested in software design and architecture, with a passion for crafting efficient and scalable systems that stand the test of time.
+
 - 🌱 I’m currently diving into backend development, expanding my expertise in server-side technologies and databases to build robust, high-performance applications.
+
 - 📫  How to reach me fouratidani2@gmail.com
 ## Technologies
 
