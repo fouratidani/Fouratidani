@@ -6,6 +6,7 @@
 - 🌱 I’m currently diving into backend development, expanding my expertise in server-side technologies and databases to build robust, high-performance applications.
 
 - 📫  How to reach me fouratidani2@gmail.com
+
 ## Technologies
 
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
