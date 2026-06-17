@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm @Fouratidani</h1>
-<h3 align="center">Software Engineer | Full-Stack & Mobile Developer</h3>
+<h1 align="center">👋 Hi, I'm @fouratidani</h1>
+<h3 align="center">Software Engineer | Web & Mobile Developer</h3>
 
 - 👀 I'm deeply interested in software design, architecture, and **aerospace applications** — building reliable, high‑performance systems that push the boundaries of what's possible.
 
